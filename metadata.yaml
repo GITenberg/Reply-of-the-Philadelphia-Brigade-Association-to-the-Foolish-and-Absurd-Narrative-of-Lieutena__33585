@@ -1,0 +1,31 @@
+_repo: Reply-of-the-Philadelphia-Brigade-Association-to-the-Foolish-and-Absurd-Narrative-of-Lieutena__33585
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33585-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Philadelphia Brigade Association
+    gutenberg_agent_id: '35587'
+    url: http://www.gutenberg.org/2009/agents/35587
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Pennsylvania Infantry Regiment, 72nd (1861-1864)'
+- !lcsh 'United States. Army. Pennsylvania Infantry Regiment, 71st (1861-1864)'
+- !lcsh 'Gettysburg, Battle of, Gettysburg, Pa., 1863'
+- !lcsh 'United States. Army. Pennsylvania Infantry Regiment, 69th (1861-1865)'
+- !lcsh 'United States. Army. Pennsylvania Infantry Regiment, 106th (1861-1864)'
+- !lcc 'E456'
+- !lcsh 'Haskell, Franklin Aretas, 1828-1864. Battle of Gettysburg'
+title: Reply of the Philadelphia Brigade Association to the Foolish and Absurd Narrative
+  of Lieutenant Frank A. Haskell
+url: http://www.gutenberg.org/ebooks/33585
